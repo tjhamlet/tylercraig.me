@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Tyler's GitHub Pages
+
+## Who am I?
+An aspiring cybersecurity professional with strong problem-solving and organizational skills with extensive experience in cyber defense competitions such as CyberPatriot and RMCCDC. Currently working towards an undergraduate degree in computer science with an emphasis in cyber security. Upon completion of my degree, I intend to pursue a career in cyber security, to help make lives better by making the world safer.
 
 You can use the [editor on GitHub](https://github.com/tjhamlet/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
