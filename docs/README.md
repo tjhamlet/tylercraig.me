@@ -13,12 +13,12 @@ Assisted in teaching novice students programming and computer skills. Responsibl
 _Jun - Aug 2017_<br>
 Assessed cybersecurity threats on Web Applications. Developed skills with multiple Linux distributions. Established bash scripting capabilities. Learned passive reconnaissance techniques in penetration testing.
 
-## Leadership	
+## Leadership
  * Managed a scrum-based development team as scrum master(team-leader) in Software Engineering at CSU. My team developed a working, trip-planning web application using a RESTful webserver.
  * President of high school CyberPatriot team (2018-2019).
  * Team Leader of high school CyberPatriot team (2015-2019). Worked collaboratively with my team to secure vulnerable computer systems in a simulated network utilizing Windows and Linux Operating Systems.
 
-[Education](./Education.md)
+## [Education](./Education.md)
 
 ### Contact Information
  - [GitHub Profile](https://github.com/tjhamlet)
