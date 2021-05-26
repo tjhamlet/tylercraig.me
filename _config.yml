@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: Minimal
 title: Title
 description: description
+show_downloads: true
