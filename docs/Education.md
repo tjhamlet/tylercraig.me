@@ -1,4 +1,3 @@
-## Tyler Craig's GitHub Pages
 ## Education
 ### Colorado State University
 Fort Collins, CO.
