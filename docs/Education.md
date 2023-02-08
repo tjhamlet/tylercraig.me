@@ -1,4 +1,7 @@
 # Education
+
+## [Home](./README.md) • [Experience](./Experience.md)
+
 ## Colorado State University
 **B.S. in Computer Science**: *Emphasis: Cybersecurity & Networking*
 Colorado State University,

@@ -1,4 +1,7 @@
 # Work Experience
+
+## [Home](./README.md) • [Education](./Education.md)
+
 ## Cybersecurity & Privacy Intern • Colorado State University
 _Jun 2022 - Dec 2022_<br>
 Performed vulnerability scanning on critical web applications and initiated remediation efforts. Additionally, lead a server migration effort across disparate operating systems, and assisted in implementing a SAML SSO solution for a backend web application.

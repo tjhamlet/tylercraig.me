@@ -1,3 +1,5 @@
+# Tyler Craig
+
 ## [Education](./Education.md) • [Experience](./Experience.md)
 
 ## Who am I?
