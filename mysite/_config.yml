@@ -1,0 +1,32 @@
+
+title: Tyler Craig
+email: TylerCraigSec@proton.me
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "tylercraig.me" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tjhamlet
+linkedin_username: TylerCraigSec
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  # - jekyll-include-cache
+  # - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
