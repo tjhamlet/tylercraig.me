@@ -11,32 +11,32 @@ I am an aspiring cybersecurity professional with strong problem-solving and orga
 # Education
 
 ## Colorado State University
-**Bachelor of Science in Computer Science**:<br>
+**Bachelor of Science in Computer Science**:  
 *Emphasis: Cybersecurity & Networking*
 
-GPA: _3.77_<br>
+GPA: _3.77_  
 Dean’s List: Spring ‘20, Spring ‘21, Fall ‘21, Spring ‘22, Fall ‘22
 
 # Work Experience
 
 ## Cybersecurity & Privacy Intern
-**Colorado State University**<br>
+**Colorado State University**  
 _Jun 2022 - Dec 2022_
 
 Performed vulnerability scanning on critical web applications and initiated remediation efforts. Additionally, lead a server migration effort across disparate operating systems, and assisted in implementing a SAML SSO solution for a backend web application.
 
 ## Salad Artist
-**Mad Greens**<br>
+**Mad Greens**  
 _Jun 2018 - Jan 2019_
 
 Effectively communicated with customers and coworkers to efficiently provide customized meals to the public.
 ## Computer Science Teacher Aide
-**Rock Canyon High School**<br>
+**Rock Canyon High School**  
 _Jan - May 2018_
 
 Assisted in teaching novice students programming and computer skills. Responsible for grading student assignments for Intro to Computer Science class.
 ## Information Technology Summer Intern
-**Douglas County School District**<br>
+**Douglas County School District**  
 _Jun - Aug 2017_
 
 Assessed cybersecurity threats on Web Applications. Developed skills with multiple Linux distributions. Established bash scripting capabilities. Learned passive reconnaissance techniques in penetration testing.
