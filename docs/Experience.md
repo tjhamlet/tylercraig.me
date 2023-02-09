@@ -1,6 +1,6 @@
 # Work Experience
 
-## [Home](./README.md) • [Education](./Education.md)
+## [Home](./README.md) • [Education](./Education.md) • [Experience](./Experience.md)
 
 ## Cybersecurity & Privacy Intern • Colorado State University
 _Jun 2022 - Dec 2022_<br>
