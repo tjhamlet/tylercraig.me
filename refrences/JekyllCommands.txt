@@ -1,3 +1,4 @@
-bundle install
-bundle update
-bundle exec jekyll serve
+bundle install; bundle update; bundle exec jekyll serve
+
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
