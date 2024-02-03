@@ -5,8 +5,7 @@ layout: default
 ---
 
 # Who am I?
-
-I am an aspiring cybersecurity professional with strong problem-solving and organizational skills and extensive experience in cyber defense competitions such as CyberPatriot and RMCCDC. I have recently finished an undergraduate degree in computer science with an emphasis in cybersecurity. Since the completion of my degree, I intend to pursue a career in cybersecurity, to help make lives better by making the world a safer place.
+I am a Technical Product Specialist at Dynatrace, where I help customers optimize their digital performance. I have a degree in Computer Science from Colorado State University, with an emphasis in Cybersecurity and Networking. I am passionate about solving complex technical challenges and delivering innovative solutions.
 
 # Education
 
@@ -18,6 +17,14 @@ GPA: _3.77_
 Dean’s List: Spring ‘20, Spring ‘21, Fall ‘21, Spring ‘22, Fall ‘22
 
 # Work Experience
+
+
+## Dynatrace
+**Technical Product Specialist I**  
+_Nov 2023 - Present_
+
+**PDP Member**  
+_Jun 2023 - Nov 2023_
 
 ## Cybersecurity & Privacy Intern
 **Colorado State University**  
