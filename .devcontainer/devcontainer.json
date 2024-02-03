@@ -3,7 +3,7 @@
 {
 	"name": "Jekyll",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye"
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -12,7 +12,8 @@
 	// "forwardPorts": [],
 
 	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "jekyll --version"
+	"postCreateCommand": "rbenv install 3.2.3; rbenv global 3.2.3"
+	// rbenv global 3.2.3
 
 	// Configure tool-specific properties.
 	// "customizations": {},
