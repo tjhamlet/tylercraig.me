@@ -285,7 +285,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jekyll-remote-theme
-  jekyll-theme-cayman
+  minima (~> 2.0)
   webrick
 
 BUNDLED WITH

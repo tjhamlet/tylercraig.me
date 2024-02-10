@@ -9,14 +9,24 @@ url: "tylercraig.me"
 github_username:  tjhamlet
 linkedin_username: TylerCraigSec
 
-# Build settings
+# Site settings
+permalink: /:title/
 markdown: kramdown
-remote_theme: pages-themes/slate@v0.2.0
-# theme: minima
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+
+# Build settings
+# remote_theme: pages-themes/slate@v0.2.0
+theme: minima
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
