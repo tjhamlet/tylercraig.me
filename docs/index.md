@@ -4,10 +4,10 @@ title: Home
 order: 1
 ---
 
-# Who am I?
+## Who am I?
 I am a Technical Product Specialist at Dynatrace, where I help customers optimize their digital performance. I have a degree in Computer Science from Colorado State University, with an emphasis in Cybersecurity and Networking. I am passionate about solving complex technical challenges and delivering innovative solutions.
 
-# My blog posts
+## My blog posts
 
 <ul>
    {% for post in site.posts %}
