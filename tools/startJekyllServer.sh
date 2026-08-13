@@ -1,5 +1,5 @@
 # !/bin/bash
-cd docs
+cd ../docs
 clear
 bundle install
 bundle update
